@@ -1,0 +1,389 @@
+winner_name,winner_rank,loser_name,loser_rank,player-name,prev-rank
+Grigor Dimitrov,17,Kei Nishikori,5,Roger Federer,3
+Grigor Dimitrov,17,Milos Raonic,3,Dominic Thiem,4
+Kei Nishikori,5,Stanislas Wawrinka,4,Facundo Arguello,173
+Milos Raonic,3,Rafael Nadal,9,Rogerio Dutra Silva,204
+Grigor Dimitrov,17,Dominic Thiem,8,Carlos Berlocq,202
+Kei Nishikori,5,Jordan Thompson,79,Yannick Hanfmann,187
+Stanislas Wawrinka,4,Kyle Edmund,45,Ruben Bemelmans,186
+Milos Raonic,3,Diego Sebastian Schwartzman,52,Emilio Gomez,172
+Rafael Nadal,9,Mischa Zverev,51,Mitchell Krueger,177
+Dominic Thiem,8,Samuel Groth,180,Tommy Robredo,179
+Grigor Dimitrov,17,Nicolas Mahut,39,Steven Diez,178
+Jordan Thompson,79,David Ferrer,21,Dudi Sela,167
+Kei Nishikori,5,Jared Donaldson,105,Pierre-Hugues Herbert,41
+Kyle Edmund,45,Lucas Pouille,15,Mikhail Kukushkin,46
+Stanislas Wawrinka,4,Viktor Troicki,29,Alexander Bublik,71
+Diego Sebastian Schwartzman,52,Sam Querrey,31,Prajnesh Gunneswaran,91
+Mischa Zverev,51,Alex De Minaur,351,Adrian Mannarino,59
+Rafael Nadal,9,Alexandr Dolgopolov,62,Peter Gojowczyk,84
+Samuel Groth,180,Pierre Hugues Herbert,78,Stefano Travaglia,81
+Nicolas Mahut,39,Stephane Robert,54,Lorenzo Sonego,47
+Grigor Dimitrov,17,Steve Johnson,33,Feliciano Lopez,63
+David Ferrer,21,Bernard Tomic,26,Nicolas Jarry,67
+Jordan Thompson,79,Elias Ymer,160,Bjorn Fratangelo,121
+Jared Donaldson,105,Gilles Muller,34,Matthias Bachinger,115
+Lucas Pouille,15,Gilles Simon,25,Denis Kudla,111
+Kyle Edmund,45,Ernesto Escobedo,141,Tommy Paul,112
+Viktor Troicki,29,Yoshihito Nishioka,100,Gregoire Barrere,107
+Roberto Bautista Agut,14,Daniil Medvedev,99,Egor Gerasimov,128
+Daniil Medvedev,99,Dudi Sela,96,Thiago Monteiro,102
+Roberto Bautista Agut,14,Benoit Paire,47,Kamil Majchrzak,96
+Daniil Medvedev,99,Jozef Kovalik,117,Dennis Novak,114
+Dudi Sela,96,Albert Ramos,27,Jaume Munar,98
+Benoit Paire,47,Aljaz Bedene,101,Guillermo Garcia-Lopez,161
+Roberto Bautista Agut,14,Mikhail Youzhny,57,Jiri Vesely,142
+Jozef Kovalik,117,Marin Cilic,6,Alessandro Giannessi,154
+Daniil Medvedev,99,Yen Hsun Lu,64,Denis Istomin,140
+Albert Ramos,27,Steve Darcis,86,Quentin Halys,164
+Dudi Sela,96,Hyeon Chung,104,Alex Bolt,134
+Benoit Paire,47,Yuki Bhambri,474,Yuichi Sugita,133
+Aljaz Bedene,101,Martin Klizan,35,Tatsuma Ito,132
+Mikhail Youzhny,57,Renzo Olivo,83,Hyeon Chung,135
+Roberto Bautista Agut,14,Rogerio Dutra Silva,98,Go Soeda,170
+Jozef Kovalik,117,Gastao Elias,81,Nikoloz Basilashvili,17
+Daniil Medvedev,99,Thiago Monteiro,82,Stan Wawrinka,23
+Yen Hsun Lu,64,Radu Albot,97,Alexander Zverev,6
+Steve Darcis,86,Nikola Mektic,331,Matteo Berrettini,26
+Dudi Sela,96,Damir Dzumhur,77,Richard Gasquet,56
+Hyeon Chung,104,Borna Coric,48,Dusan Lajovic,28
+Benoit Paire,47,Konstantin Kravchuk,85,Gilles Simon,35
+Yuki Bhambri,474,Ramkumar Ramanathan,227,Joao Sousa,43
+Aljaz Bedene,101,Guillermo Garcia Lopez,70,Laslo Djere,37
+Mikhail Youzhny,57,Saketh Myneni,192,John Isner,16
+Renzo Olivo,83,Casper Ruud,225,Novak Djokovic,1
+Rogerio Dutra Silva,98,Dusan Lajovic,93,Juan Ignacio Londero,55
+Novak Djokovic,2,Andy Murray,1,Roberto Carballes Baena,75
+Andy Murray,1,Tomas Berdych,10,Daniel Evans,44
+Novak Djokovic,2,Fernando Verdasco,42,Jordan Thompson,49
+Andy Murray,1,Nicolas Almagro,44,Yoshihito Nishioka,77
+Tomas Berdych,10,Jo Wilfried Tsonga,12,Marton Fucsovics,57
+Fernando Verdasco,42,Ivo Karlovic,20,Marco Cecchinato,65
+Novak Djokovic,2,Radek Stepanek,107,John Millman,61
+Andy Murray,1,Gerald Melzer,68,Jeremy Chardy,69
+Nicolas Almagro,44,Philipp Kohlschreiber,32,Tennys Sandgren,72
+Tomas Berdych,10,Jiri Vesely,55,Felix Auger-Aliassime,21
+Jo Wilfried Tsonga,12,Dustin Brown,72,Diego Schwartzman,24
+Ivo Karlovic,20,Karen Khachanov,53,Kevin Anderson,14
+Fernando Verdasco,42,David Goffin,11,Taylor  Fritz,25
+Radek Stepanek,107,Arthur De Greef,134,Stefanos Tsitsipas,7
+Novak Djokovic,2,Horacio Zeballos,71,Daniil Medvedev,8
+Andy Murray,1,Jeremy Chardy,69,Guido Pella,22
+Gerald Melzer,68,Paul Henri Mathieu,73,David Goffin,19
+Nicolas Almagro,44,Paolo Lorenzi,40,Borna Coric,13
+Philipp Kohlschreiber,32,Malek Jaziri,58,Fabio Fognini,10
+Tomas Berdych,10,Alessandro Giannessi,128,Frances Tiafoe,52
+Jiri Vesely,55,Anil Yuksel,507,Albert Ramos-Vinolas,51
+Dustin Brown,72,Facundo Bagnis,56,Miomir Kecmanovic,58
+Jo Wilfried Tsonga,12,Andrey Kuznetsov,46,Denis Shapovalov,34
+Ivo Karlovic,20,Illya Marchenko,74,Filip  Krajinovic,50
+Karen Khachanov,53,Mubarak Al Harrasi,1277,Andrey Rublev,70
+Fernando Verdasco,42,Vasek Pospisil,133,Pablo Cuevas,48
+David Goffin,11,Robin Haase,59,Cristian Garin,32
+Radek Stepanek,107,Marcos Baghdatis,36,Casper Ruud,54
+Arthur De Greef,134,Mohamed Safwat,199,Sam Querrey,45
+Horacio Zeballos,71,Florian Mayer,50,Aljaz Bedene,90
+Novak Djokovic,2,Jan Lennard Struff,63,Soon Woo Kwon,92
+Jack Sock,23,Joao Sousa,44,Guido Andreozzi,106
+Joao Sousa,44,Marcos Baghdatis,36,Leonardo Mayer,82
+Jack Sock,23,Steve Johnson,33,Grigor Dimitrov,74
+Marcos Baghdatis,36,Jiri Vesely,54,Martin Klizan,86
+Joao Sousa,44,Robin Haase,58,Thomas Fabbiano,89
+Jack Sock,23,Jeremy Chardy,71,Malek Jaziri,99
+Steve Johnson,33,John Isner,19,Andreas Seppi,78
+Jiri Vesely,54,Jose Rubin Statham,434,Taro Daniel,117
+Marcos Baghdatis,36,Dustin Brown,70,Andrej Martin,136
+Robin Haase,58,David Ferrer,21,Henri Laaksonen,122
+Joao Sousa,44,Brydan Klein,324,Lorenzo Giustino,127
+Jeremy Chardy,71,Feliciano Lopez,28,Evgeny  Donskoy,125
+Jack Sock,23,Ryan Harrison,89,Yannick Maden,120
+Steve Johnson,33,Yen Hsun Lu,61,Gianluca Mager,144
+John Isner,19,Malek Jaziri,56,Paolo Lorenzi,118
+Jiri Vesely,54,Horacio Zeballos,69,Blaz Rola,141
+Dustin Brown,70,Michael Mmoh,195,Jason Jung,129
+Marcos Baghdatis,36,Adrian Mannarino,60,Elias Ymer,119
+Robin Haase,58,Finn Tearney,447,adrian menendez-maceiras,194
+Brydan Klein,324,Facundo Bagnis,55,Robin Haase,123
+Joao Sousa,44,Albert Ramos,26,Marcos Baghdatis,159
+Feliciano Lopez,28,Michael Venus,1035,Roberto Marcora,182
+Jeremy Chardy,71,Artem Sitak,,Maxime Janvier,195
+Ryan Harrison,89,Guillermo Garcia Lopez,74,Dustin Brown,151
+Steve Johnson,33,Stephane Robert,53,Nicolas Mahut,162
+Yen Hsun Lu,61,Karen Khachanov,51,Steve Darcis,189
+Malek Jaziri,56,Diego Sebastian Schwartzman,52,Federico Gaio,145
+Gilles Muller,34,Daniel Evans,67,David Ferrer,152
+Daniel Evans,67,Dominic Thiem,8,Michael Mmoh,181
+Andrey Kuznetsov,48,Pablo Carreno Busta,30,Noah Rubin,196
+Viktor Troicki,29,Philipp Kohlschreiber,32,Karen Khachanov,9
+Gilles Muller,34,Pablo Cuevas,22,Kei Nishikori,5
+Dominic Thiem,8,Gastao Elias,81,Rafael Nadal,2
+Daniel Evans,67,Marcel Granollers,37,Cameron Norrie,60
+Pablo Carreno Busta,30,Mischa Zverev,50,Federico Delbonis,66
+Andrey Kuznetsov,48,Alex De Minaur,333,Jan-Lennard Struff,36
+Philipp Kohlschreiber,32,Jordan Thompson,75,Reilly Opelka,42
+Viktor Troicki,29,Paolo Lorenzi,41,Richard Berankis,76
+Gilles Muller,34,Matthew Barton,198,Alex De Minaur,38
+Pablo Cuevas,22,Nicolas Mahut,38,Jo-Wilfried Tsonga,64
+Gastao Elias,81,Christopher Oconnell,238,Pablo  Carreno Busta,53
+Daniel Evans,67,Thiago Monteiro,83,Pablo Andujar,68
+Marcel Granollers,37,Santiago Giraldo,90,Radu Albot,39
+Mischa Zverev,50,Nicolas Almagro,43,Lukas Rosol,155
+Alex De Minaur,333,Benoit Paire,46,James Duckworth,131
+Andrey Kuznetsov,48,Martin Klizan,35,Sergiy Stakhovsky,147
+Philipp Kohlschreiber,32,Fabio Fognini,47,Federico Coria,157
+Jordan Thompson,75,Nikoloz Basilashvili,94,Nikola Milojevic,150
+Paolo Lorenzi,41,Florian Mayer,49,Kimmer Coppejans,138
+Gilles Muller,34,Alexandr Dolgopolov,63,Yasutaka Uchiyama,143
+Matthew Barton,198,Kyle Edmund,45,Viktor Troicki,153
+Nicolas Mahut,38,Thomaz Bellucci,62,Ilya Ivashka,137
+Daniel Evans,67,Andrey Kuznetsov,48,Attila Balazs,139
+Gilles Muller,34,Viktor Troicki,29,Mackenzie McDonald,97
+Andy Murray,1,Illya Marchenko,95,Philipp Kohlschreiber,73
+Andrey Rublev,152,Yen Hsun Lu,60,Bernard Tomic,88
+Alex De Minaur,301,Gerald Melzer,87,Marcel Granollers,93
+Sam Querrey,32,Quentin Halys,155,Brayden Schnur,95
+John Isner,19,Konstantin Kravchuk,88,Corentin Moutet,83
+Mischa Zverev,50,Guillermo Garcia Lopez,74,Ivo Karlovic,80
+Malek Jaziri,56,Go Soeda,139,Marius Copil,85
+Alexander Bublik,207,Lucas Pouille,16,Hugo Dellien,87
+Tomas Berdych,10,Luca Vanni,157,Steve Johnson,79
+Ryan Harrison,82,Nicolas Mahut,41,Tomas Berdych,103
+Noah Rubin,200,Bjorn Fratangelo,113,Lloyd Harris,100
+Roger Federer,17,Jurgen Melzer,300,Salvatore Caruso,105
+Lukas Lacko,121,Albert Ramos,26,Matthew Ebden,110
+Dudi Sela,67,Marcel Granollers,38,Norbert Gombos,116
+Jeremy Chardy,72,Nicolas Almagro,42,Pedro Sousa,148
+Kei Nishikori,5,Andrey Kuznetsov,45,Damir Dzumhur,104
+Stanislas Wawrinka,4,Martin Klizan,34,Ernests Gulbis,124
+Steve Johnson,30,Federico Delbonis,44,Mikael Ymer,109
+Paolo Lorenzi,43,James Duckworth,107,Bradley Klahn,94
+Viktor Troicki,35,Damir Dzumhur,78,Juan Martin del Potro,12
+Diego Sebastian Schwartzman,54,Pablo Cuevas,22,Roberto Bautista Agut,11
+Steve Darcis,71,Samuel Groth,162,Kyle Edmund,30
+Andreas Seppi,89,Paul Henri Mathieu,75,Nick Kyrgios,27
+Nick Kyrgios,13,Gastao Elias,77,Fernando Verdasco,33
+Jo Wilfried Tsonga,12,Thiago Monteiro,83,Lucas Pouille,31
+Dusan Lajovic,94,Stephane Robert,55,Marin Cilic,18
+Karen Khachanov,52,Adrian Mannarino,61,Gael Monfils,15
+Jack Sock,20,Pierre Hugues Herbert,73,Milos Raonic,20
+Bernard Tomic,27,Thomaz Bellucci,62,Benoit Paire,29
+Victor Estrella,103,Aljaz Bedene,109,Ramkumar Ramanathan,180
+Daniel Evans,51,Facundo Bagnis,65,Facundo Bagnis,160
+Marin Cilic,7,Jerzy Janowicz,273,Marc Polmans,166
+Gael Monfils,6,Jiri Vesely,53,Sebastian Ofner,168
+Alexandr Dolgopolov,69,Borna Coric,59,Alexey Vatutin,188
+Donald Young,85,Thomas Fabbiano,141,Mats Moraign,171
+Philipp Kohlschreiber,33,Nikoloz Basilashvili,92,Enzo Couacaud,169
+Alexander Zverev,24,Robin Haase,57,Darian King,185
+Francis Tiafoe,108,Mikhail Kukushkin,98,Oscar Otte,163
+Marcos Baghdatis,36,Mikhail Youzhny,70,Jack Sock,176
+Rafael Nadal,9,Florian Mayer,49,Joao Domingues,174
+Roberto Bautista Agut,14,Guido Pella,81,Peter Polansky,193
+Yoshihito Nishioka,99,Alex Bolt,632,Donald Young,199
+Ernesto Escobedo,131,Daniil Medvedev,63,,
+David Ferrer,23,Omar Jasika,290,,
+Gilles Simon,25,Michael Mmoh,190,,
+Rogerio Dutra Silva,100,Jared Donaldson,101,,
+Gilles Muller,28,Taylor Harry Fritz,93,,
+Milos Raonic,3,Dustin Brown,66,,
+Dominic Thiem,8,Jan Lennard Struff,58,,
+Jordan Thompson,76,Joao Sousa,37,,
+Benoit Paire,47,Tommy Haas,,,
+Fabio Fognini,48,Feliciano Lopez,29,,
+Ivo Karlovic,21,Horacio Zeballos,68,,
+Andrew Whittington,194,Adam Pavlasek,86,,
+Radek Stepanek,102,Dmitry Tursunov,405,,
+David Goffin,11,Reilly Opelka,208,,
+Grigor Dimitrov,15,Christopher Oconnell,231,,
+Hyeon Chung,105,Renzo Olivo,79,,
+Carlos Berlocq,90,Radu Albot,96,,
+Richard Gasquet,18,Blake Mott,287,,
+Pablo Carreno Busta,31,Peter Polansky,132,,
+Kyle Edmund,46,Santiago Giraldo,91,,
+Denis Istomin,117,Ivan Dodig,170,,
+Novak Djokovic,2,Fernando Verdasco,40,,
+Andy Murray,1,Andrey Rublev,152,,
+Sam Querrey,32,Alex De Minaur,301,,
+Mischa Zverev,50,John Isner,19,,
+Malek Jaziri,56,Alexander Bublik,207,,
+Tomas Berdych,10,Ryan Harrison,82,,
+Roger Federer,17,Noah Rubin,200,,
+Lukas Lacko,121,Dudi Sela,67,,
+Kei Nishikori,5,Jeremy Chardy,72,,
+Stanislas Wawrinka,4,Steve Johnson,30,,
+Viktor Troicki,35,Paolo Lorenzi,43,,
+Steve Darcis,71,Diego Sebastian Schwartzman,54,,
+Andreas Seppi,89,Nick Kyrgios,13,,
+Jo Wilfried Tsonga,12,Dusan Lajovic,94,,
+Jack Sock,20,Karen Khachanov,52,,
+Bernard Tomic,27,Victor Estrella,103,,
+Daniel Evans,51,Marin Cilic,7,,
+Gael Monfils,6,Alexandr Dolgopolov,69,,
+Philipp Kohlschreiber,33,Donald Young,85,,
+Alexander Zverev,24,Francis Tiafoe,108,,
+Rafael Nadal,9,Marcos Baghdatis,36,,
+Roberto Bautista Agut,14,Yoshihito Nishioka,99,,
+David Ferrer,23,Ernesto Escobedo,131,,
+Gilles Simon,25,Rogerio Dutra Silva,100,,
+Milos Raonic,3,Gilles Muller,28,,
+Dominic Thiem,8,Jordan Thompson,76,,
+Benoit Paire,47,Fabio Fognini,48,,
+Ivo Karlovic,21,Andrew Whittington,194,,
+David Goffin,11,Radek Stepanek,102,,
+Grigor Dimitrov,15,Hyeon Chung,105,,
+Richard Gasquet,18,Carlos Berlocq,90,,
+Pablo Carreno Busta,31,Kyle Edmund,46,,
+Denis Istomin,117,Novak Djokovic,2,,
+Andy Murray,1,Sam Querrey,32,,
+Mischa Zverev,50,Malek Jaziri,56,,
+Roger Federer,17,Tomas Berdych,10,,
+Kei Nishikori,5,Lukas Lacko,121,,
+Stanislas Wawrinka,4,Viktor Troicki,35,,
+Andreas Seppi,89,Steve Darcis,71,,
+Jo Wilfried Tsonga,12,Jack Sock,20,,
+Daniel Evans,51,Bernard Tomic,27,,
+Gael Monfils,6,Philipp Kohlschreiber,33,,
+Rafael Nadal,9,Alexander Zverev,24,,
+Roberto Bautista Agut,14,David Ferrer,23,,
+Milos Raonic,3,Gilles Simon,25,,
+Dominic Thiem,8,Benoit Paire,47,,
+David Goffin,11,Ivo Karlovic,21,,
+Grigor Dimitrov,15,Richard Gasquet,18,,
+Denis Istomin,117,Pablo Carreno Busta,31,,
+Mischa Zverev,50,Andy Murray,1,,
+Roger Federer,17,Kei Nishikori,5,,
+Stanislas Wawrinka,4,Andreas Seppi,89,,
+Jo Wilfried Tsonga,12,Daniel Evans,51,,
+Rafael Nadal,9,Gael Monfils,6,,
+Milos Raonic,3,Roberto Bautista Agut,14,,
+David Goffin,11,Dominic Thiem,8,,
+Grigor Dimitrov,15,Denis Istomin,117,,
+Roger Federer,17,Mischa Zverev,50,,
+Stanislas Wawrinka,4,Jo Wilfried Tsonga,12,,
+Rafael Nadal,9,Milos Raonic,3,,
+Grigor Dimitrov,15,David Goffin,11,,
+Roger Federer,17,Stanislas Wawrinka,4,,
+Rafael Nadal,9,Grigor Dimitrov,15,,
+Roger Federer,17,Rafael Nadal,9,,
+Nicolas Jarry,312,Jose Hernandez,263,,
+Christian Garin,189,Roberto Cid,507,,
+Marcelo Tomas Barrios Vera,454,Jose Olivares,722,,
+Nicolas Jarry,312,Nick Hardt,1772,,
+Emilio Gomez,293,Juan Pablo Varillas Patino Samudio,633,,
+Roberto Quiroz,289,Mauricio Echazu,844,,
+Roberto Quiroz,289,Juan Pablo Varillas Patino Samudio,633,,
+Gonzalo Escobar,508,Alexander Merino,1340,,
+Yuki Bhambri,368,Finn Tearney,414,,
+Ramkumar Ramanathan,276,Jose Rubin Statham,417,,
+Ramkumar Ramanathan,276,Finn Tearney,414,,
+Yuki Bhambri,368,Jose Rubin Statham,417,,
+Hyeon Chung,73,Sanjar Fayziev,367,,
+Denis Istomin,80,Duck Hee Lee,139,,
+Denis Istomin,80,Soon Woo Kwon,308,,
+Joao Sousa,41,Yshai Oliel,928,,
+Gastao Elias,76,Dudi Sela,75,,
+Frederico Ferreira Silva,363,Daniel Cukierman,528,,
+Pedro Sousa,192,Yshai Oliel,928,,
+Mirza Basic,212,Kamil Majchrzak,259,,
+Damir Dzumhur,82,Hubert Hurkacz,379,,
+Damir Dzumhur,82,Kamil Majchrzak,259,,
+Tomislav Brkic,418,Hubert Hurkacz,379,,
+Adrian Ungur,313,Ilya Ivashka,175,,
+Egor Gerasimov,341,Marius Copil,129,,
+Marius Copil,129,Ilya Ivashka,175,,
+Egor Gerasimov,341,Adrian Ungur,313,,
+Martin Klizan,36,Attila Balazs,284,,
+Marton Fucsovics,159,Jozef Kovalik,115,,
+Marton Fucsovics,159,Martin Klizan,36,,
+Ricardo Rodriguez,753,Philip Wilbert Major,,,
+Luis David Martinez,1231,Spencer Newman,,,
+Ricardo Rodriguez,753,Justin Lunn,,,
+Jordi Munoz Abreu,1259,Philip Wilbert Major,,,
+Ayed Zatar,,Haydn Lewis,,,
+Darian King,142,Bruno Britez,,,
+Darian King,142,Ayed Zatar,,,
+Bruno Britez,,Seanon Williams,,,
+Federico Zeballos,509,Alberto Emmanuel Alvarado Larin,,,
+Marcelo Arevalo,181,Hugo Dellien,743,,
+Marcelo Arevalo,181,Federico Zeballos,509,,
+Rodrigo Banzer,,Alberto Emmanuel Alvarado Larin,,,
+Wilfredo Gonzalez,1019,Luis Patino,730,,
+Manuel Sanchez,790,Christopher Diaz Figueroa,677,,
+Christopher Diaz Figueroa,677,Gerardo Lopez Villasenor,1772,,
+David Agung Susanto,740,Alberto Lim,,,
+Ruben Gonzales,925,Aditya Hari Sasongko,1568,,
+Ruben Gonzales,925,David Agung Susanto,740,,
+Alberto Lim,,Anthony Susanto,2031,,
+Jirat Navasirisomboon,997,Abdullah Maqdas,1298,,
+Mohammad Ghareeb,,Wishaya Trongcharoenchaikul,773,,
+Wishaya Trongcharoenchaikul,773,Abdullah Maqdas,1298,,
+Aqeel Khan,,Shahin Khaledan,1995,,
+Aisam Ul Haq Qureshi,,Anoosha Shahgholi,1865,,
+Hamid Reza Nadaf,,M Abid Ali Khan Akbar,1491,,
+Shahin Khaledan,1995,Mahammad Abid,,,
+Hong Kit Jack Wong,911,Thien Nguyen Hoang,1443,,
+Nam Hoang Ly,635,Hei Yin Andrew Li,1511,,
+Nam Hoang Ly,635,Hong Kit Jack Wong,911,,
+Karan Rastogi,1511,Thien Nguyen Hoang,1443,,
+Nicolaas Scholtz,517,Jurgen Zopp,317,,
+Lloyd George Muirhead Harris,288,Vladimir Ivanov,442,,
+Lloyd George Muirhead Harris,288,Mattias Siimar,1511,,
+Vladimir Ivanov,442,Nicolaas Scholtz,517,,
+Nikoloz Basilashvili,89,Eero Vasa,1112,,
+Harri Heliovaara,,George Tsivadze,819,,
+Nikoloz Basilashvili,89,Emil Ruusuvuori,1511,,
+Laurynas Grigelis,267,Lucas Andriamasilalao,,,
+Antso Rakotondramanga,,Tadas Babelis,1345,,
+Laurynas Grigelis,267,Antso Rakotondramanga,,,
+Jean Jacques Rakotohasy,,Tomas Vaise,,,
+Frederik Nielsen,408,Amine Ahouda,861,,
+Reda El Amrani,682,Soren Hess Olesen,,,
+Frederik Nielsen,408,Reda El Amrani,682,,
+Soren Hess Olesen,,Mehdi Jdi,1252,,
+Blaz Kavcic,171,Lucas Catarina,885,,
+Grega Zemlja,151,Romain Arneodo,954,,
+Grega Zemlja,151,Lucas Catarina,885,,
+Thomas Oger,,Tilen Zitnik,1654,,
+Casper Ruud,217,Martins Podzus,860,,
+Viktor Durasovic,630,Mikelis Libietis,380,,
+Simen Sunde Bratholm,1376,Rudolfs Mednis,1544,,
+Viktor Durasovic,630,Arturs Lazdins,1469,,
+Malek Jaziri,51,Isak Arvidsson,569,,
+Patrik Rosenholm,531,Mohamed Aziz Dougaz,,,
+Malek Jaziri,51,Patrik Rosenholm,531,,
+Isak Arvidsson,569,Mohamed Aziz Dougaz,,,
+Cem Ilkel,354,Petros Chrysochos,1365,,
+Marsel Ilhan,238,Menelaos Efstathiou,1505,,
+Marsel Ilhan,238,Petros Chrysochos,1365,,
+Altug Celikbilek,532,Nicholas Campbell,,,
+Paolo Lorenzi,43,Guido Pella,84,,
+Andreas Seppi,68,Carlos Berlocq,81,,
+Carlos Berlocq,81,Paolo Lorenzi,43,,
+Fabio Fognini,48,Guido Pella,84,,
+Steve Darcis,58,Philipp Kohlschreiber,29,,
+Alexander Zverev,22,Arthur De Greef,143,,
+Steve Darcis,58,Alexander Zverev,22,,
+Ruben Bemelmans,141,Mischa Zverev,35,,
+Daniel Evans,45,Denis Shapovalov,234,,
+Vasek Pospisil,133,Kyle Edmund,47,,
+Vasek Pospisil,133,Daniel Evans,45,,
+Kyle Edmund,47,Denis Shapovalov,234,,
+Jordan Thompson,65,Jiri Vesely,54,,
+Nick Kyrgios,15,Jan Satral,157,,
+Jiri Vesely,54,Samuel Groth,182,,
+Jordan Thompson,65,Jan Satral,157,,
+Franco Skugor,223,Pablo Carreno Busta,26,,
+Roberto Bautista Agut,16,Ante Pavic,486,,
+Roberto Bautista Agut,16,Franco Skugor,223,,
+Pablo Carreno Busta,26,Nikola Mektic,319,,
+Richard Gasquet,18,Taro Daniel,114,,
+Gilles Simon,24,Yoshihito Nishioka,85,,
+Nicolas Mahut,42,Yoshihito Nishioka,85,,
+Yasutaka Uchiyama,230,Pierre Hugues Herbert,101,,
+Viktor Troicki,37,Karen Khachanov,52,,
+Novak Djokovic,2,Daniil Medvedev,63,,
+Daniil Medvedev,63,Nenad Zimonjic,,,
+Jack Sock,20,Marco Chiudinelli,146,,
+John Isner,23,Henri Laaksonen,127,,
+Sam Querrey,27,Adrien Bossel,485,,
+Steve Johnson,31,Antoine Bellier,598,,
